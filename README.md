@@ -22,4 +22,6 @@
    <a href="https://www.linkedin.com/in/ronald-david/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
 
+![snake gif](https://github.com/RonaldDSC/RonaldDSC/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3500D3&height=120&section=footer"/>
