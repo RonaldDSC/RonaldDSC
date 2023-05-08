@@ -7,9 +7,17 @@
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&hide_border=true&title_color=3500D3&text_color=F4F4F4&bg_color=00000000" />
 </div> <br> <br>
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true&count_private=true&hide_border=true&title_color=3500D3&icon_color=3500D3&text_color=F4F4F4&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&hide_border=true&title_color=3500D3&text_color=F4F4F4&bg_color=00000000light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true&count_private=true&hide_border=true&title_color=3500D3&icon_color=3500D3&text_color=F4F4F4&bg_color=00000000"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true&count_private=true&hide_border=true&title_color=3500D3&icon_color=3500D3&text_color=0B0C10&bg_color=00000000"
+  media="(prefers-color-scheme: light))"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## 💻 Skills:
 
