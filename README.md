@@ -14,26 +14,28 @@
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&hide_border=true&title_color=3500D3&text_color=0B0C10&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img width="44%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
     </picture>
-</div> <br><br>
+</div> <br>
 
-## 💻 Skills:
+## 💻 Languages and Tools:
 
-<div align="center" style="display: inline-block"> 
+<div align="start" style="display: inline-block"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
 </div> <br>
 
 ## 📚 Studying in this moment:
 
-<div align="center" style="display: inline-block"> 
+<div align="start" style="display: inline-block"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
 </div> <br>
 
 ## 📧 Social Links:
 
-<div align="center"> 
+<div align="start"> 
     <a href="https://www.linkedin.com/in/ronald-david/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:ronaldcriolo02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> <br><br>
