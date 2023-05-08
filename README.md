@@ -3,9 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3500D3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronald+David+Silva+Criôlo;I'm+20+years+old;I+from+Brazil,+Pernambuco;I+study+Computer+Science+at+UNINASSAU;Be+Welcome!+:%29)](https://git.io/typing-svg) <br><br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true&count_private=true&hide_border=true&title_color=3500D3&icon_color=3500D3&text_color=F4F4F4&bg_color=0d1117" alt="Roanald David Silva Criôlo github stats" /> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&hide_border=true&title_color=3500D3&text_color=F4F4F4&bg_color=0d1117" />
-</div> <br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true&count_private=true&hide_border=true&title_color=3500D3&icon_color=3500D3&text_color=F4F4F4&bg_color=00000000" alt="Roanald David Silva Criôlo github stats" /> 
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&hide_border=true&title_color=3500D3&text_color=F4F4F4&bg_color=00000000" />
+</div> <br> <br>
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true&count_private=true&hide_border=true&title_color=3500D3&icon_color=3500D3&text_color=F4F4F4&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&hide_border=true&title_color=3500D3&text_color=F4F4F4&bg_color=00000000light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 💻 Skills:
 
