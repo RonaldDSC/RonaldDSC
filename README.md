@@ -6,13 +6,13 @@
 <div align="center">  
     <picture>
         <source srcset="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true&count_private=true&rank_icon=github&hide=stars&hide_border=true&title_color=3500D3&icon_color=3500D3&text_color=F4F4F4&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true&count_private=true&hide_border=true&title_color=3500D3&icon_color=3500D3&text_color=0B0C10&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true&count_private=true&rank_icon=github&hide=stars&hide_border=true&title_color=3500D3&icon_color=3500D3&text_color=0B0C10&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true" />
     </picture>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&hide_border=true&title_color=3500D3&text_color=F4F4F4&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&hide_border=true&title_color=3500D3&text_color=0B0C10&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img width="44%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&rank_icon=github&hide=stars&hide_border=true&title_color=3500D3&text_color=F4F4F4&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDSC&layout=compact&rank_icon=github&hide=stars&hide_border=true&title_color=3500D3&text_color=0B0C10&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img width="40%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
     </picture>
 </div> <br>
 
