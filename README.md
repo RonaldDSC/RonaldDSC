@@ -38,4 +38,8 @@
 
 ![snake gif](https://github.com/RonaldDSC/RonaldDSC/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3500D3&height=120&section=footer"/>
+<picture>
+    <source srcset="https://capsule-render.vercel.app/api?type=waving&color=3500D3&height=120&section=footer" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://capsule-render.vercel.app/api?type=waving&color=160059&height=120&section=footer" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RonaldDSC&show_icons=true" />
+</picture>
