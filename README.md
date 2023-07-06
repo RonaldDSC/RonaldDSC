@@ -1,4 +1,4 @@
-![Banner_github](https://github.com/RonaldDSC/Projeto_Integrador/assets/84992560/20fe1b62-dd43-4b01-9297-5ad5c8dc08cc)
+![Banner_github](https://github.com/RonaldDSC/RonaldDSC/assets/84992560/42a1cbf6-9f06-4e47-b5fe-9995a6102322)
 <br><br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3500D3&size=28&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ronald+Criôlo;I'm+20+years+old;I+from+Brazil,+Pernambuco;I+study+Computer+Science+at+UNINASSAU;Be+Welcome!+:%29)](https://git.io/typing-svg) 
