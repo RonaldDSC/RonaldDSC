@@ -19,7 +19,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma)
 
 <br>
 
