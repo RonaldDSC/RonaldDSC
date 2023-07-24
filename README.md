@@ -36,7 +36,4 @@
     <a href = "mailto:ronaldcriolo02@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> <br><br>
 
-
-![snake gif](https://github.com/RonaldDSC/RonaldDSC/blob/output/github-contribution-grid-snake.svg)
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3500D3&height=120&section=footer" />
