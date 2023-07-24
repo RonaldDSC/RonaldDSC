@@ -39,8 +39,8 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/RonaldDSC/Sangue_solidario" target="_blank" title="Sangue solidario"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=RonaldDSC&repo=Sangue_solidario&title_color=3500D3&text_color=F4F4F4&bg_color=0B0C10&border_color=3500D3&border_radius=10"></a>
-  <a align="left" href="https://github.com/RonaldDSC/Site_E-nature" target="_blank" title="E-nature"><img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=RonaldDSC&repo=Site_E-nature&title_color=3500D3&text_color=F4F4F4&bg_color=0B0C10&border_color=3500D3&border_radius=10"></a>
+  <a align="right" href="https://github.com/RonaldDSC/Sangue_solidario" title="Sangue solidario" target="_blank"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=RonaldDSC&repo=Sangue_solidario&title_color=3500D3&text_color=F4F4F4&bg_color=0B0C10&border_color=3500D3&border_radius=10"></a>
+  <a align="left" href="https://github.com/RonaldDSC/Site_E-nature" title="E-nature" target="_blank"><img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=RonaldDSC&repo=Site_E-nature&title_color=3500D3&text_color=F4F4F4&bg_color=0B0C10&border_color=3500D3&border_radius=10"></a>
 </div><br><br><br><br><br><br><br><br>
 
 <h4 align="center">
