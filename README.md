@@ -30,7 +30,7 @@ const ronald = {
 <img src="https://img.shields.io/badge/JavaScript-21262D?style=for-the-badge&logo=javascript&logoColor=34D399" />
 <img src="https://img.shields.io/badge/TypeScript-21262D?style=for-the-badge&logo=typescript&logoColor=10B981" />
 <img src="https://img.shields.io/badge/HTML5-21262D?style=for-the-badge&logo=html5&logoColor=059669" />
-<img src="https://img.shields.io/badge/CSS3-21262D?style=for-the-badge&logo=css3&logoColor=10B981" />
+<img src="https://img.shields.io/badge/CSS3-21262D?style=for-the-badge&logo=css&logoColor=10B981" />
 
 <br/><br/>
 
@@ -169,8 +169,8 @@ Projetos que fizeram parte da minha evolução no desenvolvimento.
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=10B981" target="_blank"/>
 </a>
 
-<a href = "mailto:ronaldcriolo02@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+<a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=ronaldcriolo02@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 </a>
 
 <a href="https://github.com/RonaldDSC">
